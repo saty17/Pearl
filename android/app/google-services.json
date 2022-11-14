@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431197886944",
+    "project_id": "pearl-user-app",
+    "storage_bucket": "pearl-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431197886944:android:a3cf67e8684aeb3e3bb385",
+        "android_client_info": {
+          "package_name": "com.pearl.luxury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431197886944-colmdm6s18492ubj5sidrfjk6bbrr7vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pearl.luxury",
+            "certificate_hash": "e40f11cbadd16b1ff09139d3ccab8101bf002ae6"
+          }
+        },
+        {
+          "client_id": "431197886944-ppaui58kdb9fdebfr7u6ph2d2o7j33n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2CI_HTFJSlFxJaTbFEId5rrVGGfeaz5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431197886944-ppaui58kdb9fdebfr7u6ph2d2o7j33n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
